@@ -1,0 +1,116 @@
+2024-09-23 16:39:14,912 - naver_price.py - INFO - start_main
+2024-09-23 16:39:15,022 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 16:39:15,050 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 16:39:15,054 - naver_price.py - INFO - 008870:60100
+2024-09-23 16:39:15,054 - naver_price.py - INFO - 009320:대우부품현재 가격 가져오기
+2024-09-23 16:39:15,081 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 16:39:15,082 - naver_price.py - INFO - 009320:1099
+2024-09-23 16:39:15,082 - naver_price.py - INFO - 005930:삼성전자현재 가격 가져오기
+2024-09-23 16:39:15,104 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 16:39:15,105 - naver_price.py - INFO - 005930:62600
+2024-09-23 16:39:15,105 - naver_price.py - INFO - current price 정상 저장
+2024-09-23 16:39:15,107 - naver_price.py - INFO - current price 완료
+2024-09-23 17:05:26,386 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:05:26,416 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:05:26,420 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:05:26,498 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:05:26,499 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:05:26,500 - naver_price.py - INFO - current price 완료
+2024-09-23 17:06:53,966 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:06:53,998 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:06:53,999 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:06:54,102 - naver_price.py - ERROR - 'createDt'
+2024-09-23 17:06:54,106 - naver_price.py - INFO - current price 완료
+2024-09-23 17:08:26,203 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:08:26,234 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:08:26,235 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:08:26,311 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:08:26,312 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:08:26,318 - naver_price.py - INFO - current price 완료
+2024-09-23 17:09:14,085 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:09:14,116 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:09:14,117 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:09:14,192 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:09:14,193 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:09:14,200 - naver_price.py - INFO - current price 완료
+2024-09-23 17:09:43,787 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:09:43,817 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:09:43,818 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:09:43,894 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:09:43,894 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:09:43,896 - naver_price.py - INFO - current price 완료
+2024-09-23 17:17:20,668 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:17:20,695 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:17:20,701 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:17:20,776 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:17:20,777 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:17:20,778 - naver_price.py - INFO - current price 완료
+2024-09-23 17:17:25,115 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:17:25,141 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:17:25,142 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:17:25,218 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:17:25,218 - naver_price.py - ERROR - ORA-01036: 잘못된 변수명/번호
+2024-09-23 17:17:25,297 - naver_price.py - INFO - current price 완료
+2024-09-23 17:23:33,267 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:23:33,296 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:23:33,296 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:23:33,378 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:23:33,380 - naver_price.py - ERROR - ORA-00933: SQL 명령어가 올바르게 종료되지 않았습니다
+2024-09-23 17:23:33,383 - naver_price.py - INFO - current price 완료
+2024-09-23 17:23:39,279 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:23:39,305 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:23:39,306 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:23:39,379 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:23:39,381 - naver_price.py - ERROR - ORA-00904: "A"."COMMENT_COUNT": 부적합한 식별자
+2024-09-23 17:23:39,383 - naver_price.py - INFO - current price 완료
+2024-09-23 17:25:50,076 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-23 17:25:50,104 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:25:50,105 - naver_price.py - INFO - 008870:60100
+2024-09-23 17:25:50,185 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-23 17:25:50,214 - naver_price.py - INFO - 금비 토론방 수집 종료
+2024-09-23 17:25:50,215 - naver_price.py - INFO - 009320:대우부품현재 가격 가져오기
+2024-09-23 17:25:50,322 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:25:50,323 - naver_price.py - INFO - 009320:1099
+2024-09-23 17:25:50,406 - naver_price.py - INFO - 대우부품 토론방 수집 시작
+2024-09-23 17:25:50,416 - naver_price.py - INFO - 대우부품 토론방 수집 종료
+2024-09-23 17:25:50,416 - naver_price.py - INFO - 005930:삼성전자현재 가격 가져오기
+2024-09-23 17:25:50,439 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:25:50,440 - naver_price.py - INFO - 005930:62600
+2024-09-23 17:25:50,515 - naver_price.py - INFO - 삼성전자 토론방 수집 시작
+2024-09-23 17:25:50,537 - naver_price.py - INFO - 삼성전자 토론방 수집 종료
+2024-09-23 17:25:50,537 - naver_price.py - INFO - current price 정상 저장
+2024-09-23 17:25:50,538 - naver_price.py - INFO - current price 완료
+2024-09-24 13:53:54,753 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-24 13:53:54,787 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 13:53:54,794 - naver_price.py - INFO - 008870:60000
+2024-09-24 13:53:54,874 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-24 13:53:54,892 - naver_price.py - INFO - 금비 토론방 수집 종료
+2024-09-24 13:53:54,892 - naver_price.py - INFO - 009320:대우부품현재 가격 가져오기
+2024-09-24 13:53:54,913 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 13:53:54,914 - naver_price.py - INFO - 009320:1088
+2024-09-24 13:53:54,999 - naver_price.py - INFO - 대우부품 토론방 수집 시작
+2024-09-24 13:53:55,007 - naver_price.py - INFO - 대우부품 토론방 수집 종료
+2024-09-24 13:53:55,007 - naver_price.py - INFO - 005930:삼성전자현재 가격 가져오기
+2024-09-24 13:53:55,027 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 13:53:55,027 - naver_price.py - INFO - 005930:62700
+2024-09-24 13:53:55,101 - naver_price.py - INFO - 삼성전자 토론방 수집 시작
+2024-09-24 13:53:55,106 - naver_price.py - INFO - 삼성전자 토론방 수집 종료
+2024-09-24 13:53:55,107 - naver_price.py - INFO - current price 정상 저장
+2024-09-24 13:53:55,108 - naver_price.py - INFO - current price 완료
+2024-09-24 18:16:57,389 - naver_price.py - INFO - 008870:금비현재 가격 가져오기
+2024-09-24 18:16:57,419 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 18:16:57,424 - naver_price.py - INFO - 008870:60500
+2024-09-24 18:16:57,507 - naver_price.py - INFO - 금비 토론방 수집 시작
+2024-09-24 18:16:57,521 - naver_price.py - INFO - 금비 토론방 수집 종료
+2024-09-24 18:16:57,522 - naver_price.py - INFO - 009320:대우부품현재 가격 가져오기
+2024-09-24 18:16:57,548 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 18:16:57,549 - naver_price.py - INFO - 009320:1098
+2024-09-24 18:16:57,617 - naver_price.py - INFO - 대우부품 토론방 수집 시작
+2024-09-24 18:16:57,627 - naver_price.py - INFO - 대우부품 토론방 수집 종료
+2024-09-24 18:16:57,627 - naver_price.py - INFO - 005930:삼성전자현재 가격 가져오기
+2024-09-24 18:16:57,649 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 18:16:57,650 - naver_price.py - INFO - 005930:63200
+2024-09-24 18:16:57,722 - naver_price.py - INFO - 삼성전자 토론방 수집 시작
+2024-09-24 18:16:57,739 - naver_price.py - INFO - 삼성전자 토론방 수집 종료
+2024-09-24 18:16:57,739 - naver_price.py - INFO - current price 정상 저장
+2024-09-24 18:16:57,740 - naver_price.py - INFO - current price 완료
