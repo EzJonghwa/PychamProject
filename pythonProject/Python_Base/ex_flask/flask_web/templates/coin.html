@@ -1,0 +1,17 @@
+{% extends 'top.html' %}
+<!-- spring 의 include와 같은 의미-->
+
+{% block content %}
+  <table class="table table-hover">
+    <tbody>
+    {% for v in coin %}
+    <tr>
+      <td>{{v.korean_name}}</td>
+      <td>{{v.english_name}}</td>
+      <td>{{v.market}}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+
+  </table>
+{% endblock %}
